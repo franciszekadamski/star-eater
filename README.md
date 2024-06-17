@@ -5,7 +5,7 @@ Controls are WASD for movement and arrows for rotation. Be careful!
 You have inertia and in space there is no air that would slow you down.  
 
 In config.toml you will find configurable parameters.  
-If you want to load your one sky map, you can do this by editing skymap.json.  
+If you want to load your own sky map, you can do this by editing skymap.json.  
 Remember to disable random star generation in config.toml!
 
 # Build instructions

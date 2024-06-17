@@ -1,5 +1,5 @@
 # Star Eater
-Star Eater is simple game, where your goal is to eat as many stars as possible.   
+Star Eater is a simple game, where your goal is to eat as many stars as possible.   
 
 Controls are WASD for movement and arrows for rotation. Be careful!  
 You have inertia and in space there is no air that would slow you down.  
